@@ -9,7 +9,7 @@ Version: 1.0
 In this paper, we propose a multi-instance nonparallel tube learning (MINTL) method. For a K-class multi-instance classification problem, it learns K nonparallel tubes, each for one class. To construct the ϵk-tube of class k, each bag of class k should have at least one instance included in the ϵk-tube. Moreover, the remaining instances should lie inside the ϵk-tube or outside the ϵk-tube with a large margin. At last, the ϵk-tube should lie far from the other classes.    
 
 # 2. Requirements
-Matlab R2022a version    
+Matlab R2020a version    
 
 # 3. Datasets      
     (1) MINTL is evaluated on several real-world multi-instance learning datasets, i.e., Corel, SIVAL, 20 Newsgroup, AWA-3, Scene and Flower.    
